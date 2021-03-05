@@ -22,3 +22,6 @@ double: Double precision floating point.
 
 In computer science a floating point is the representation of real-numbers as an approximation between range and precision, whereas a data type is an attribute of 
 data which the machine receives as a manipulation of the programmer.
+
+Fifth Commit:
+In computer programming a constant is a fundamental data type which cannot be altered during normal execution. I will expand on this in a future commit.
