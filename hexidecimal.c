@@ -3,7 +3,7 @@
 #define VTAB '\013' /* ASCII VERTICAL TAB */
 #define BELL '\007' /* BELL character tab */
 
-
+/* These values are hexidecimals defined by ASCII and Bell Labs standards */
 
 
 
