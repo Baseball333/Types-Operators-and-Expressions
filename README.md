@@ -32,3 +32,11 @@ Certain characters can be represented in character and string constants by escap
 
 Seventh Commit:
 No.
+
+Eighth Commit:
+Other constants also exist in C among the most common being a constant expression. A constant expression is one which is evaluated during compilation and contains
+constants.
+
+#define MAXLINE 1000
+char line[MAXLINE + 1]
+
