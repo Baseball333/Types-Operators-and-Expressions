@@ -29,3 +29,6 @@ In computer programming a constant is a fundamental data type which cannot be al
 Sixth Commit:
 The semantics of a constant is based around which data type they occupy. Each data type contains a constant with a character the most prominent. A character constant is written in single quotes whose value is the numeric correspondent of the specific character. These constants participate in numeric operations akin to any other structure in C, as they are often compared to other characters. 
 Certain characters can be represented in character and string constants by escape sequences such as \n. The following program represents hexidecimal digits.
+
+Seventh Commit:
+No.
