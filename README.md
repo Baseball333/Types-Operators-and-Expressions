@@ -40,3 +40,4 @@ constants.
 #define MAXLINE 1000
 char line[MAXLINE + 1]
 
+A string constant is a sequence of zero or more characters surrounded by double quotes.
