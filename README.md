@@ -41,3 +41,7 @@ constants.
 char line[MAXLINE + 1]
 
 A string constant is a sequence of zero or more characters surrounded by double quotes.
+
+Ninth Commit:
+There is no limit to a string's length though a program is able to scan a string completely to determine its length. The standard library function strlen(s) scans 
+a string, which is represented through the following program.
