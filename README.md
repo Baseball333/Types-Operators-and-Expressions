@@ -45,3 +45,7 @@ A string constant is a sequence of zero or more characters surrounded by double 
 Ninth Commit:
 There is no limit to a string's length though a program is able to scan a string completely to determine its length. The standard library function strlen(s) scans 
 a string, which is represented through the following program.
+
+Tenth Commit:
+There are instances in which enum is mentioned and executed in a program. If not all values are specified the progression continues from the previous specified 
+value. The following file is an example. 
