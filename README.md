@@ -49,10 +49,12 @@ a string, which is represented through the following program.
 Tenth Commit:
 There are instances in which enum is mentioned and executed in a program. If not all values are specified the progression continues from the previous specified 
 value. The following file is an example. 
-
+.
 Eleventh Commit:
 The file is written in an enumeration constant which describe Unix escape sequences and the progression of a Gregorian year.
 
 Twelfth Commit:
 This file describes declaration.
 
+Thirteenth Commit:
+In C a declaration is completed by a variable. A declaration also specifies a type and also contains a list of one or more types. Variables can be distributed among declarations, and a variable can be initialized for computation.
