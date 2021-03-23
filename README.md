@@ -52,3 +52,7 @@ value. The following file is an example.
 
 Eleventh Commit:
 The file is written in an enumeration constant which describe Unix escape sequences and the progression of a Gregorian year.
+
+Twelfth Commit:
+This file describes declaration.
+
