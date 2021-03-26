@@ -61,3 +61,6 @@ In C a declaration is completed by a variable. A declaration also specifies a ty
 
 Fourteenth Commit:
 The next file describes arithmetic operators.
+
+Fifteenth Commit:
+Arithmetic operators describe arithmetic. The binary arithmetic operators +, -, *, and the modulus operator %.
