@@ -58,3 +58,6 @@ This file describes declaration.
 
 Thirteenth Commit:
 In C a declaration is completed by a variable. A declaration also specifies a type and also contains a list of one or more types. Variables can be distributed among declarations, and a variable can be initialized for computation.
+
+Fourteenth Commit:
+The next file describes arithmetic operators.
