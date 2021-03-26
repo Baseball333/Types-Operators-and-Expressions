@@ -64,3 +64,7 @@ The next file describes arithmetic operators.
 
 Fifteenth Commit:
 Arithmetic operators describe arithmetic. The binary arithmetic operators +, -, *, and the modulus operator %.
+
+Sixteenth Commit:
+The x % y expression produces the remainder x divided by y. The program describes a leap year convention with an if statement and an escape sequence. Furthermore,
+% cannot be applied to float or double types.
