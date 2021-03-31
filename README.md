@@ -74,3 +74,6 @@ The next commit describes relational/logical operators.
 
 Eighteenth Commit:
 Relational operators are such which relate the logic of a programming language. They are intertwined with logical operators. The C textbook references precedence between such operators, though they must be named. Relational operators are >, <, >=, <=; logical operators are && and ||.
+
+Nineteenth Commit:
+The precedence of relational operators is below arithmetic ones, though high within C compilation. Logical expressions are evaluated from left to right. The following file is an example of this.
