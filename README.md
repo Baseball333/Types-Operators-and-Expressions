@@ -68,3 +68,6 @@ Arithmetic operators describe arithmetic. The binary arithmetic operators +, -, 
 Sixteenth Commit:
 The x % y expression produces the remainder x divided by y. The program describes a leap year convention with an if statement and an escape sequence. Furthermore,
 % cannot be applied to float or double types.
+
+Seventeeth Commit:
+The next commit describes relational/logical operators.
