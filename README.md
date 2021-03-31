@@ -77,3 +77,7 @@ Relational operators are such which relate the logic of a programming language. 
 
 Nineteenth Commit:
 The precedence of relational operators is below arithmetic ones, though high within C compilation. Logical expressions are evaluated from left to right. The following file is an example of this.
+
+Twentieth Commit:
+In this example the precedence of != is higher than the assignment which require extra parenthesis. The final section of this portion describes the != operator. This operator is referred to as a unary negation operand. The unary negation operand converts a non-zero operand into 0.
+
