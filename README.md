@@ -84,3 +84,5 @@ In this example the precedence of != is higher than the assignment which require
 Twentyfirst Commit:
 The next commit describes type conversions.
 
+Twentysecond Commit:
+When an operator has operands of different types they are converted to a single type. The main form of conversion are ones which convert a narrow operand into a wider one without a loss of information.
