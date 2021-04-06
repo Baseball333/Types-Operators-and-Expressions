@@ -81,3 +81,6 @@ The precedence of relational operators is below arithmetic ones, though high wit
 Twentieth Commit:
 In this example the precedence of != is higher than the assignment which require extra parenthesis. The final section of this portion describes the != operator. This operator is referred to as a unary negation operand. The unary negation operand converts a non-zero operand into 0.
 
+Twentyfirst Commit:
+The next commit describes type conversions.
+
