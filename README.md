@@ -86,3 +86,6 @@ The next commit describes type conversions.
 
 Twentysecond Commit:
 When an operator has operands of different types they are converted to a single type. The main form of conversion are ones which convert a narrow operand into a wider one without a loss of information.
+
+Twentythird Commit:
+The type char is a small integer applied freely in arithmetic operations. The implementation of the atoi function is one which converts a string of digits into numerical equivalents. The next file describes the atoi function.
