@@ -89,3 +89,6 @@ When an operator has operands of different types they are converted to a single 
 
 Twentythird Commit:
 The type char is a small integer applied freely in arithmetic operations. The implementation of the atoi function is one which converts a string of digits into numerical equivalents. The next file describes the atoi function.
+
+Twentyfourth Commit:
+The following commits describe increment/decrement operators.
