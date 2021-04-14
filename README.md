@@ -92,3 +92,9 @@ The type char is a small integer applied freely in arithmetic operations. The im
 
 Twentyfourth Commit:
 The following commits describe increment/decrement operators.
+
+Twentififth Commit:
+C provides two variables for increment/decrement of variables.
+The increment operator ++
+The decrement operator --
+These are applied are increment/decrement operators.
