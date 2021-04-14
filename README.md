@@ -98,3 +98,6 @@ C provides two variables for increment/decrement of variables.
 The increment operator ++
 The decrement operator --
 These are applied are increment/decrement operators.
+
+Twentisixth Commit:
+In a context where no value is wanted prefix/postfix are the same.
