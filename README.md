@@ -101,3 +101,6 @@ These are applied are increment/decrement operators.
 
 Twentisixth Commit:
 In a context where no value is wanted prefix/postfix are the same.
+
+Twentiseventh Commit:
+Each time a non-c occurs it is copied into the current j position which is incremented to be the next character.
