@@ -104,3 +104,7 @@ In a context where no value is wanted prefix/postfix are the same.
 
 Twentiseventh Commit:
 Each time a non-c occurs it is copied into the current j position which is incremented to be the next character.
+
+Twentieighth Commit:
+Another instance of prefix/postfix distinction is in the following code.
+
