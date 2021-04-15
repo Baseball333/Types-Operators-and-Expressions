@@ -111,3 +111,6 @@ Another instance of prefix/postfix distinction is in the following code.
 Twentininth Commit:
 The previous file can be replaced by the following code.
 
+Thirtieth Commit:
+The final example is described through the function strcat(s,t) which concatenates the length of string t to s.
+
