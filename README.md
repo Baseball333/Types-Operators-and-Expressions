@@ -108,3 +108,6 @@ Each time a non-c occurs it is copied into the current j position which is incre
 Twentieighth Commit:
 Another instance of prefix/postfix distinction is in the following code.
 
+Twentininth Commit:
+The previous file can be replaced by the following code.
+
