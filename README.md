@@ -116,3 +116,18 @@ The final example is described through the function strcat(s,t) which concatenat
 
 Thirtyfirst Commit:
 C provides six operators for bit manipulation. These may only be applied to types char, short, int and long.
+
+Thirtysecond Commit:
+& Bitwise and
+| Bitwise inclusive or
+^ Bitwise exclusive or
+<< Left shift
+>>  Right shift
+- One's complement (unary operator)
+
+Here is a statement:
+
+n = n & 0177;
+
+The bitwise or operator
+x = x || SET_ON;
