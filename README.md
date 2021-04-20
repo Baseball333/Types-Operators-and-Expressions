@@ -131,3 +131,6 @@ n = n & 0177;
 
 The bitwise or operator
 x = x || SET_ON;
+
+Thirtythird Commit:
+A programmer must distinguish between bitwise operators & and the bitwise inclusive or from && and ||. The shift operators move operands based on their number of bits. The unary operator complements one of the integers, converting each 1-bit into a 0-bit.
