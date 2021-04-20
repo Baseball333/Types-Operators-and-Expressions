@@ -114,3 +114,5 @@ The previous file can be replaced by the following code.
 Thirtieth Commit:
 The final example is described through the function strcat(s,t) which concatenates the length of string t to s.
 
+Thirtyfirst Commit:
+C provides six operators for bit manipulation. These may only be applied to types char, short, int and long.
