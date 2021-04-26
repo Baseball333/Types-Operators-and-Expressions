@@ -137,3 +137,6 @@ A programmer must distinguish between bitwise operators & and the bitwise inclus
 
 Thirtyfourth Commit:
 Certain statements in C express arithmetic. Operators set precedence within assignment through syntax.
+
+Thirtyfifth Commit:
+The next file is a program of function bitcount. Bitcount counts the number of 1-bits in an integer argument.
