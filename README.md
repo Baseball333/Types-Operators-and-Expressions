@@ -134,3 +134,6 @@ x = x || SET_ON;
 
 Thirtythird Commit:
 A programmer must distinguish between bitwise operators & and the bitwise inclusive or from && and ||. The shift operators move operands based on their number of bits. The unary operator complements one of the integers, converting each 1-bit into a 0-bit.
+
+Thirtyfourth Commit:
+Certain statements in C express arithmetic. Operators set precedence within assignment through syntax.
