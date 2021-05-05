@@ -140,3 +140,6 @@ Certain statements in C express arithmetic. Operators set precedence within assi
 
 Thirtyfifth Commit:
 The next file is a program of function bitcount. Bitcount counts the number of 1-bits in an integer argument.
+
+Thirtysixth Commit:
+Happy May!
