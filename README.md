@@ -143,3 +143,6 @@ The next file is a program of function bitcount. Bitcount counts the number of 1
 
 Thirtysixth Commit:
 Happy May!
+
+Thirtyseventh Commit:
+Conditional expressions provide an alternate way to write constructions. C evaluates programs from left to right, however conditions of different type are evaluated based on precedence.
